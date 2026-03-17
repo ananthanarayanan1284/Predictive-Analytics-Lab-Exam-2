@@ -1,5 +1,7 @@
 # Predictive-Analytics-Lab-Exam-2
 Lab Exam 2
+Anantanarayanan B
+DAGIS 253318
 
 ## Overview
 This repository contains the code and dataset for Lab Exam-2. The objective is to perform a classification task, including Exploratory Data Analysis (EDA), model training, decision boundary visualization, and performance evaluation.
